@@ -15,7 +15,7 @@ export default function () {    //เรียกใช้ API ใน export def
   //response = api4()  //API รายละเอียดสินค้า         //หน้า สินค้า
   //response = api2()  //API สินค้าสำหรับคุณ          //หน้า สินค้า
 
-  //response = api5()  //API เพิ่มสินค้า
+  response = api5()  //API เพิ่มสินค้า
   //response = api6()  //API รายละเอียดสินค้าในตะดร้า
   //response = api7()  //API Checkout ตะกร้า
   //response = api8()  //API Checkstock
